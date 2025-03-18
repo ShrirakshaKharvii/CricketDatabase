@@ -1,4 +1,5 @@
 Cricket Database Management
+
 Cricket Database Management is a web-based application designed to manage and organize cricket match schedules, player statistics, team rankings, and stadium details. Built using PHP and MySQL, this system allows users to view upcoming matches, search for players, and access team standings. Admins have full control over the database, enabling them to add or remove players, update match schedules, and modify team statistics efficiently.
 
 Features
